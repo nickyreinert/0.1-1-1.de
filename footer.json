@@ -1,0 +1,16 @@
+{
+  "mother": {
+    "caption": "Institut für digitale Herausforderungen",
+    "url": "https://institut-fdh.de"
+  },
+  "portfolio": [
+    {"caption": "GPS route renderer", "url": "https://8.1-1-1.de"},
+    {"caption": "http mirror", "url": "https://6.1-1-1.de"},
+    {"caption": "speed test", "url": "https://7.1-1-1.de"},
+    {"caption": "p2p sharing", "url": "https://9.1-1-1.de"}
+  ],
+  "support": {
+    "caption": "buy me a coffee",
+    "url": "https://buymeacoffee.com/nickyreinert"
+  }
+}
